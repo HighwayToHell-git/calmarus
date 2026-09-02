@@ -1,2 +1,2 @@
 l:
-	g++ src/main.cpp -o calt
+	gcc src/main.c -o calmarus
