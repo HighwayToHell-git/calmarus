@@ -1,4 +1,4 @@
-# calmarus
+# calmarus RIP 
 An engine that converts any syntax into any syntax.
 ---
 ### What is all this for?
